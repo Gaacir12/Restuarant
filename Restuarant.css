@@ -430,7 +430,7 @@ color: var(--primary-color);
     gap: 48px;
 }
 .section-title{
-    color: white;
+    color: var(--primary-color);
 }
 
 .section-contact_info-items{
